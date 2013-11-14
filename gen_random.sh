@@ -25,6 +25,7 @@ while [ $count -le 7 ]; do
                         else
                                 random_indexes+=($random_index)
                         fi
+
                 fi
 
         done
@@ -41,23 +42,23 @@ done
 while :
 do
         read -p "How many passwords do you need?: " pass_count
-                if [[ "$pass_count"  =~ ^[0-9]+$ ]] && [[ "$pass_count" -gt 0 ]] && [[ "$pass_count" -lt 100 ]]; then
+		if [[ "$pass_count"  =~ ^[0-9]+$ ]] && [[ "$pass_count" -gt 0 ]] && [[ "$pass_count" -lt 100 ]]; then
                 break
         else
-                echo "Insert the amount of passwords (from 1 to 100)"
+		echo "Insert the amount of passwords (from 1 to 100)"
 
         fi
 done
 
 while :
 do
-        read -p "How many small characters?: " small_char
-        if [[ "$small_char"  =~ ^[0-9]+$ ]] && [[ "$small_char" -lt 10 ]]; then
-                break
-        else
-                echo "Should be integer and less than 10."
-
-        fi
+	read -p "How many small characters?: " small_char
+	if [[ "$small_char"  =~ ^[0-9]+$ ]] && [[ "$small_char" -lt 10 ]]; then
+		break
+	else
+		echo "Should be integer and less than 10."
+	
+	fi
 done
 
 
@@ -79,41 +80,42 @@ do
                 break
         else
                 echo "Should be integer and less than 10."
+
         fi
 done
 
 big_echo="You have entered:
-        Password count: $pass_count
+	Password count: $pass_count
         Small characters: $small_char
-        Big characters: $big_char
-        Numbers: $number_char"
+	Big characters: $big_char
+	Numbers: $number_char"
 
 echo "$big_echo"
 
 for x in `seq 1 $pass_count`; do
 
-        small_char_array=(a b c d e f g h i j k l m n o p q r s t u v w x y z)
-        big_char_array=(A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
-        number_char_array=(1 2 3 4 5 6 7 8 9 0)
+	small_char_array=(a b c d e f g h i j k l m n o p q r s t u v w x y z)
+	big_char_array=(A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
+	number_char_array=(1 2 3 4 5 6 7 8 9 0)
 
-        max_char=${#small_char_array[*]}
-        max_bigchar=${#big_char_array[*]}
-        max_number=${#number_char_array[*]}
+	max_char=${#small_char_array[*]}
+	max_bigchar=${#big_char_array[*]}
+	max_number=${#number_char_array[*]}
 
-        for a in `seq 1 $small_char`; do
-                let rand_char=${RANDOM}%${max_char}
-                str="${str}${small_char_array[$rand_char]}"
-        done
+	for a in `seq 1 $small_char`; do
+        	let rand_char=${RANDOM}%${max_char}
+       		str="${str}${small_char_array[$rand_char]}"
+	done
 
-        for b in `seq 1 $big_char`; do
-                let rand_bigchar=${RANDOM}%${max_bigchar}
-                str="${str}${big_char_array[$rand_bigchar]}"
-        done
+	for b in `seq 1 $big_char`; do
+        	let rand_bigchar=${RANDOM}%${max_bigchar}
+        	str="${str}${big_char_array[$rand_bigchar]}"
+	done
 
-        for c in `seq 1 $number_char`; do
-                let rand_number=${RANDOM}%${max_number}
-                str="${str}${number_char_array[$rand_number]}"
-        done
+	for c in `seq 1 $number_char`; do
+       		let rand_number=${RANDOM}%${max_number}
+       		str="${str}${number_char_array[$rand_number]}"
+	done
 
 done
 
@@ -122,20 +124,19 @@ new_str=`echo $str | sed -e "s/.\{$pass_len\}/&\n/g"`
 
 passwords=()
 for k in $new_str; do
-        passwords+=($k)
+	passwords+=($k)
 done
 
 if [ $pass_count -eq 1 ]; then
-        echo Generating password...
-        #echo "$new_str"
+	echo Generating password...
+	#echo "$new_str"
 else
-        echo Generating passwords...
-        #echo "$new_str"
+	echo Generating passwords...
+	#echo "$new_str"
 fi
 echo "--------------------------"
 for i in "${passwords[@]}"; do
-        final_pass=`randomize_string $i`
-        echo $final_pass | tr -d ' '
-        #sleep 1
+	final_pass=`randomize_string $i`
+	echo $final_pass | tr -d ' '
+	#sleep 1
 done
-   
