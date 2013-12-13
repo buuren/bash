@@ -32,8 +32,8 @@ while [ $start -lt $end ]; do
   		exit 0
   	else
   		while read line; do
-  			if [[ "$line" == *"network error"* ]]; then
-  				if [[ "${ERRORS[*]}" =~ "$line" ]]; then
+  			if [[ "$line" == *"Update had a"* ]]; then
+  				if [[ "${ERRORS[*]}" == *"$line"* ]]; then
   					:
   				else
   					ERRORS+=("$line")
