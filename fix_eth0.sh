@@ -17,7 +17,7 @@ if [[ ! $get_ip ]]; then
 
                         if [ $? -eq 1 ]; then
                                 grep -v "eth0" /etc/udev/rules.d/70-persistent-net.rules > /etc/udev/rules.d/70-persistent-net.rules.temp
-                                mv -f :/etc/udev/rules.d/70-persistent-net.rules.temp /etc/udev/rules.d/70-persistent-net.rules
+                                mv -f /etc/udev/rules.d/70-persistent-net.rules.temp /etc/udev/rules.d/70-persistent-net.rules
                                 sed -i 's/eth1/eth0/g' /etc/udev/rules.d/70-persistent-net.rules
                                 sed -i "7s/.*/HWADDR=$current_mac/" /etc/sysconfig/network-scripts/ifcfg-eth0
                                 reboot
