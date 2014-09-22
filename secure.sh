@@ -7,11 +7,6 @@ MY_DATE_SUM=0
 for i in $(echo $MY_DATE | grep -o '[0-9]'); do
         MY_DATE_SUM=$[$MY_DATE_SUM + $i]
 done
-
-
-
-
-
 #EXERCISE 1 START
 echo "========================================================="
 echo "STARTING EXERCISE 1..."
