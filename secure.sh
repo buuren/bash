@@ -1,12 +1,13 @@
 #!/bin/bash
 
-MY_DATE='25'
+MY_DATE='2505.19.90'
 echo "My number is: $MY_DATE"
 echo ''
 MY_DATE_SUM=0
-for i in $(echo $MY_DATE | fold -w 1); do
+for i in $(echo $MY_DATE | grep -o '[0-9]'); do
         MY_DATE_SUM=$[$MY_DATE_SUM + $i]
 done
+echo "$MY_DATE_SUM"
 #EXERCISE 1 START
 echo "========================================================="
 echo "STARTING EXERCISE 1..."
@@ -18,7 +19,7 @@ for ((i=1; i<=10; i++)); do
          
          if [[ "$ipaddr" ]]; then
                  echo "Got host $ipaddr"
-                 find_ip_addr="$(dig $ipaddr)"
+                 find_ip_addr="$(dig +short $ipaddr)"
                  if [[ "$find_ip_addr" ]]; then
                          echo "Found IP: $find_ip_addr"
                          #echo "Searching for additional names..."
