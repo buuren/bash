@@ -2,7 +2,6 @@
 
 MY_DATE='25'
 
-
 MY_DATE_SUM=0
 for i in $(echo $MY_DATE | fold -w 1); do
         MY_DATE_SUM=$[$MY_DATE_SUM + $i]
