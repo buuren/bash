@@ -1,0 +1,161 @@
+$ ./kat.sh
+My birth date is: 12.10.1990
+
+=========================================================
+STARTING EXERCISE 1...
+=========================================================
+My number is: 50
+129.14.0.193.in-addr.arpa. 193.0.14.129  k.root-servers.net. tinnie.arin.net. sec3.apnic.net. pri.authdns.ripe.net. sns-pb.isc.org. ns3.nic.fr. sec1.apnic.net.
+
+My number is: 50
+129.14.0.193.in-addr.arpa. 193.0.14.129  k.root-servers.net. tinnie.arin.net. sec3.apnic.net. pri.authdns.ripe.net. sns-pb.isc.org. ns3.nic.fr. sec1.apnic.net.
+
+My number is: 62
+115.144.182.207.in-addr.arpa. 207.182.144.115  73.90.b6.static.xlhost.com. ns1.ee.net. ns2.ee.net.
+
+My number is: 73
+44.222.9.5.in-addr.arpa. 5.9.222.44  static.44.222.9.5.clients.your-server.de. ns1.your-server.de. ns.second-ns.com. ns3.second-ns.de.
+
+My number is: 6
+147.71.194.173.in-addr.arpa. 173.194.71.147  lb-in-f147.1e100.net.
+
+My number is: 40
+50.32.194.173.in-addr.arpa. 173.194.32.50  arn06s02-in-f18.1e100.net.
+
+My number is: 3
+104.71.194.173.in-addr.arpa. 173.194.71.104  lb-in-f104.1e100.net.
+
+My number is: 84
+42.83.7.199.in-addr.arpa. 199.7.83.42  l.root-servers.net. b.iana-servers.net. c.iana-servers.net. a.iana-servers.net. ns.icann.org.
+
+My number is: 71
+99.143.125.74.in-addr.arpa. 74.125.143.99  la-in-f99.1e100.net.
+
+My number is: 26
+103.143.125.74.in-addr.arpa. 74.125.143.103  la-in-f103.1e100.net.
+
+=========================================================
+EXERCISE 1 DONE
+=========================================================
+
+=========================================================
+STARTING EXERCISE 2...
+=========================================================
+My number is: 1644
+Poland
+212.51.216.77 abuse@p.lodz.pl TechnicalUniversityofLodz PL http://www.cert.pl
+
+My number is: 2342
+RussianFederation
+85.28.1.165 no_abuse_email Commed-InfoCorp. RU http://www.gov-cert.ru
+
+My number is: 839
+Hungary
+193.138.125.86 no_abuse_email GiganetInternetSzolgaltatoKft HU http://www.cert-hungary.hu
+
+My number is: 406
+BosniaandHerzegovina
+195.222.33.246 abuse@bih.net.ba PublicEnterpriseofBHTelecom-BIHNET BA National Agency for Cyber Security
+
+My number is: 1550
+RussianFederation
+91.226.94.13 no_abuse_email OOO''Sobis'' RU http://www.gov-cert.ru
+
+My number is: 2253
+Germany
+176.57.128.53 abuse@g-portal.de G-Portal.de-HQGame-&RootserverHosting DE http://www.bsi.bund.de/certbund
+
+My number is: 1493
+Germany
+85.190.14.173 no_abuse_email LowPings.net DE http://www.bsi.bund.de/certbund
+
+My number is: 776
+Portugal
+80.172.230.195 abuse@pt.clara.net Visual-Fusion PT http://www.ceger.gov.pt
+
+My number is: 2247
+Germany
+46.163.104.185 abuse@hosteurope.de HostEuropeGmbH DE http://www.bsi.bund.de/certbund
+
+My number is: 755
+Poland
+78.31.159.248 no_abuse_email JarsatSp.zo.o. PL http://www.cert.pl
+
+My number is: 517
+RussianFederation
+62.140.250.131 abuse@fiord.ru ColocationServices RU http://www.gov-cert.ru
+
+My number is: 1355
+RussianFederation
+80.77.175.114 abuse@fiord.ru ColocationServices RU http://www.gov-cert.ru
+
+My number is: 951
+UnitedKingdom
+217.146.84.243 no_abuse_email AudioLock-audiolock.net GB http://www.cpni.gov.uk
+
+My number is: 1150
+RussianFederation
+212.24.32.156 abuse@caravan.ru LL11579-COUNTER RU http://www.gov-cert.ru
+
+My number is: 1578
+RussianFederation
+217.199.218.183 no_abuse_email BXNETWORK RU http://www.gov-cert.ru
+
+My number is: 2023
+France
+77.111.252.171 no_abuse_email VeryGames.netforever:) FR http://www.cert.ssi.gouv.fr
+
+My number is: 1125
+201.238.222.63 is UNSPECIFIED.
+
+My number is: 1130
+Portugal
+80.172.230.185 abuse@pt.clara.net Visual-Fusion PT http://www.ceger.gov.pt
+
+My number is: 1019
+200.123.172.61 is UNSPECIFIED.
+
+My number is: 2003
+Germany
+193.192.58.177 abuse@g-portal.de OcirisGmbH DE http://www.bsi.bund.de/certbund
+
+=========================================================
+EXERCISE 2 DONE
+=========================================================
+
+=========================================================
+STARTING EXERCISE 4...
+=========================================================
+My number is: 1975
+2605:e000:6780:2200:c050:5b3f:471d:3c2e OcirisGmbH abuse@ripe.net http://www.us-cert.gov US UnitedStates US-CERT
+
+My number is: 2015
+2620:101:2005:10b4:10:8:52:185 OcirisGmbH abuse@ripe.net http://www.us-cert.gov US UnitedStates US-CERT
+
+My number is: 2055
+2620:101:4037:3a03:150:70:97:118 OcirisGmbH abuse@ripe.net http://www.us-cert.gov US UnitedStates US-CERT
+
+My number is: 2095
+2a00:1210:fffe:72::1 OcirisGmbH abuse@steephost.com http://www.cert.gov.ua UA Ukraine CERT-UA
+
+My number is: 2135
+2a01:4f8:200:3055::2 OcirisGmbH no_abuse_email http://www.bsi.bund.de/certbund DE Germany CERT-Bund
+
+My number is: 2175
+2a01:e34:ef70:c080:257e:6792:5a2c:3ac0 OcirisGmbH abuse@proxad.net http://www.cert.ssi.gouv.fr FR France CERT-FR
+
+My number is: 2215
+2a01:e35:2eef:9a40:11e4:48ea:7f3d:7154 OcirisGmbH abuse@proxad.net http://www.cert.ssi.gouv.fr FR France CERT-FR
+
+My number is: 2255
+2a01:e35:2eef:9a40:7450:5b2b:1699:19e5 OcirisGmbH abuse@proxad.net http://www.cert.ssi.gouv.fr FR France CERT-FR
+
+My number is: 2295
+2a01:e35:2eef:9a40:c8fb:ffd9:9a75:c595 OcirisGmbH abuse@proxad.net http://www.cert.ssi.gouv.fr FR France CERT-FR
+
+My number is: 2335
+2a01:e35:8a67:1f70:dd10:2f54:4721:4e6c OcirisGmbH abuse@proxad.net http://www.cert.ssi.gouv.fr FR France CERT-FR
+
+=========================================================
+EXERCISE 4 DONE
+=========================================================
