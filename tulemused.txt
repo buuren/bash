@@ -1,0 +1,160 @@
+$ ./kat.sh
+My birth date is: 12.10.1990
+
+=========================================================
+STARTING EXERCISE 1...
+=========================================================
+My number is: 25
+138.0.40.188.in-addr.arpa. 188.40.0.138  dedi260.flk1.host-h.net. ns1.your-server.de. ns.second-ns.com. ns3.second-ns.de.
+
+My number is: 63
+254.253.251.98.in-addr.arpa. 98.251.253.254  c-98-251-253-254.hsd1.tn.comcast.net. dns105.comcast.net. dns101.comcast.net. dns102.comcast.net. dns103.comcast.net. dns104.comcast.net.
+
+My number is: 18
+99.143.125.74.in-addr.arpa. 74.125.143.99  la-in-f99.1e100.net.
+
+My number is: 75
+103.143.125.74.in-addr.arpa. 74.125.143.103  la-in-f103.1e100.net.
+
+My number is: 59
+12.4.33.192.in-addr.arpa. 192.33.4.12  c.root-servers.net. auth5.dns.cogentco.com. auth1.dns.cogentco.com. auth4.dns.cogentco.com. auth2.dns.cogentco.com.
+
+My number is: 82
+254.253.246.95.in-addr.arpa. 95.246.253.254  host254-253-dynamic.246-95-r.retail.telecomitalia.it. dns10.interbusiness.it. dnst3.interbusiness.it.
+
+My number is: 13
+104.143.125.74.in-addr.arpa. 74.125.143.104  la-in-f104.1e100.net.
+
+My number is: 77
+14.204.80.82.in-addr.arpa. 82.80.204.14  s4.perion.com. ns3.bezeqint.net. ns1.bezeqint.net. ns2.bezeqint.net.
+
+My number is: 65
+158.144.121.91.in-addr.arpa. 91.121.144.158  ks357025.kimsufi.com.
+
+My number is: 3
+104.71.194.173.in-addr.arpa. 173.194.71.104  lb-in-f104.1e100.net.
+
+=========================================================
+EXERCISE 1 DONE
+=========================================================
+
+=========================================================
+STARTING EXERCISE 2...
+=========================================================
+My number is: 1152
+Germany
+87.98.245.98 abuse@ovh.net DudweilerLandstrasse5 DE http://www.bsi.bund.de/certbund
+
+My number is: 2196
+Germany
+212.224.69.193 abuse@first-colo.de FirstColoGmbH DE http://www.bsi.bund.de/certbund
+
+My number is: 1921
+50.23.127.82 is UNSPECIFIED.
+
+My number is: 1642
+UnitedKingdom
+109.70.148.206 abuse@gamingdeluxe.co.uk 14TheHill GB http://www.cpni.gov.uk
+
+My number is: 1801
+RussianFederation
+217.23.132.147 abuse@caravan.ru CJSC"CARAVAN-TELECOM" RU http://www.gov-cert.ru
+
+My number is: 1457
+Germany
+93.186.196.99 abuse@fastIT.net myLocmanagedITAG DE http://www.bsi.bund.de/certbund
+
+My number is: 948
+Slovenia
+193.95.241.17 abuse@siol.net TelekomSlovenijed.d. SI https://www.cert.si
+
+My number is: 1034
+RussianFederation
+94.245.155.26 no_abuse_email 22,Kurashovastr.,677000YakutskCity RU http://www.gov-cert.ru
+
+My number is: 681
+RussianFederation
+91.189.162.182 no_abuse_email 665702Russia,Bratsk,Gidrostroiteleistr.,53,office410 RU http://www.gov-cert.ru
+
+My number is: 446
+RussianFederation
+194.28.210.51 no_abuse_email Russia,Moscow,Pyatnitskayastr.,14section1 RU http://www.gov-cert.ru
+
+My number is: 1157
+41.185.60.30 is UNSPECIFIED.
+
+My number is: 962
+Poland
+193.33.177.16 abuse@openmakers.pl ul.Kosciuszki6 PL http://www.cert.pl
+
+My number is: 983
+Germany
+78.46.184.198 no_abuse_email HetznerOnlineAG-Virtualisierung DE http://www.bsi.bund.de/certbund
+
+My number is: 417
+Germany
+46.251.248.245 no_abuse_email Sandweg5a DE http://www.bsi.bund.de/certbund
+
+My number is: 1512
+Hungary
+94.199.183.54 abuse@szervernet.hu 1132Budapest HU http://www.cert-hungary.hu
+
+My number is: 817
+Poland
+79.133.192.44 abuse@etop.pl eTOPSp.zo.o. PL http://www.cert.pl
+
+My number is: 2235
+196.2.97.216 is UNSPECIFIED.
+
+My number is: 1099
+Tunisia
+193.95.75.8 no_abuse_email seehttp://www.afrinic.net EU#countryisreallysomewhereinAfricanRegion http://www.ansi.tn
+
+My number is: 980
+Germany
+176.9.10.146 abuse@hetzner.de HetznerOnlineAG DE http://www.bsi.bund.de/certbund
+
+My number is: 711
+Germany
+82.165.139.229 abuse@oneandone.net 1&1InternetAG DE http://www.bsi.bund.de/certbund
+
+=========================================================
+EXERCISE 2 DONE
+=========================================================
+
+=========================================================
+STARTING EXERCISE 4...
+=========================================================
+My number is: 2651
+2a02:2788:64:fbf:5826:8a88:515c:9173 1&1InternetAG dnsmaster@brutele.be https://www.cert.be BE Belgium CERT.be
+
+My number is: 2691
+2a02:2788:64:fbf:a9bb:5687:b61d:5d87 1&1InternetAG dnsmaster@brutele.be https://www.cert.be BE Belgium CERT.be
+
+My number is: 2731
+2a02:2f02:b000:e400:4c74:7328:c890:5df4 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2771
+2a02:2f02:b011:fb00:4508:493b:9e1:6a0 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2811
+2a02:2f07:615f:ffff::bc18:e28e 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2851
+2a02:2f09:801f:ffff::4f75:f0d1 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2891
+2a02:2f0b:9010:dd00:ce1:ea83:98c0:72a8 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2931
+2a02:2f0b:9030:a500:fcf5:67f:1efb:8ca3 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 2971
+2a02:2f0c:1000:c700:51a6:8ae:c371:9b51 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+My number is: 3011
+2a02:2f0c:20bf:ffff::567f:86b1 1&1InternetAG abuse@rcs-rds.ro http://www.cert-ro.eu RO Romania CERT-RO
+
+=========================================================
+EXERCISE 4 DONE
+=========================================================
