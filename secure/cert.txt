@@ -1,0 +1,488 @@
+Albania
+ALCIRT
+National Agency for Cyber Security
+http://www.cirt.gov.al
+
+Armenia
+CERT AM
+Computer Emergency Response Team Armenia
+http://www.cert.am
+
+Australia
+CERT Australia
+Computer Emergency Response Team Australia
+http://www.cert.gov.au
+
+Austria
+GovCERT.AT
+Austrian Government Computer Emergency Response Team
+http://www.govcert.gv.at
+
+CERT.at
+National Computer Emergency Response Team of Austria
+http://www.cert.at
+
+Azerbaijan
+CERT.GOV.AZ
+Azerbaijan Government CERT
+http://www.cert.gov.az
+
+Bangladesh
+BD-CSIRT
+Bangladesh Computer Security Incident Response Team
+http://www.csirt.gov.bd
+
+Belgium
+CERT.be
+The Federal Cyber Emergency Team
+https://www.cert.be
+
+Brazil
+CERT.br
+Computer Emergency Response Team Brazil
+http://www.cert.br
+
+CTIR Gov
+Treatment Center of Security Incidents on Computer Networks of the Federal Government
+http://www.ctir.gov.br
+
+Brunei Darussalam
+BruCERT
+Brunei Computer Emergency Response Team
+http://www.brucert.org.bn
+
+Bulgaria
+CERT Bulgaria
+Bulgarian Computer Security Incidents Response Team
+https://govcert.bg
+
+Cambodia
+CamCERT
+National Cambodia Computer Emergency Response Team
+http://www.camcert.gov.kh
+
+Canada
+CCIRC
+Canadian Cyber Incident Response Center
+http://www.publicsafety.gc.ca/
+
+Chile
+CLCERT
+Chilean Computer Emergency Response Team
+http://www.clcert.cl
+
+China
+CNCERT/CC
+National Computer Emergency Response Center
+http://www.cert.org.cn
+
+Colombia
+colCERT
+colCERT Grupo de Respuesta a Emergencias Ciberneticas de Columbia
+http://www.colcert.gov.co
+
+Cote DIvoire Ivory Coast
+CI-CERT
+Ivory Coast National CSIRT
+http://www.cicert.ci
+
+Croatia Hrvatska
+HR-CERT
+Croatian National Computer Emergency Response Team
+http://www.cert.hr
+
+Croatia
+HR-CERT
+Croatian National Computer Emergency Response Team
+http://www.cert.hr
+
+Curacao
+CARICERT
+Caribbean CERT
+http://www.caricert.cw
+
+Czech Republic
+CSIRT.CZ
+Computer Security Incident Response Team of the Czech Republic
+http://www.csirt.cz
+
+CzechRepublic
+CSIRT.CZ
+Computer Security Incident Response Team of the Czech Republic
+http://www.csirt.cz
+
+GovCERT.CZ
+GovCERT.CZ: Government CERT of the Czech Republic
+http://www.govcert.cz
+
+Denmark
+GovCERT.DK
+Danish GovCERT
+http://www.govcert.dk
+
+Egypt
+Egyptian CERT
+Egyptian CERT
+http://www.mcit.gov.eg
+
+Estonia
+CERT-EE
+Computer Emergency Response Team Estonia
+http://www.cert.ee
+
+Europe
+CERT-EU
+Computer Emergency Response Team European Union
+http://cert.europa.eu/
+
+Finland
+CERT-FI
+Finnish National Computer Emergency Response Team
+http://www.cert.fi
+
+France
+CERT-FR
+French Government CSIRT
+http://www.cert.ssi.gouv.fr
+
+Georgia
+CERT.GOV.GE
+Computer Emergency Response Team-Georgia
+http://www.dea.gov.ge
+
+Germany
+CERT-Bund
+Computer Emergency Response Team - CERT-Bund
+http://www.bsi.bund.de/certbund
+
+Hong Kong
+HKCERT
+Hong Kong Computer Emergency Response Coordination Centre
+http://www.hkcert.org
+
+Hungary
+CERT-Hungary
+Computer Emergency Response Team of Hungary
+http://www.cert-hungary.hu
+
+Iceland
+CERT-IS
+Computer Emergency Response Team Iceland
+http://www.cert.is
+
+India
+CERT-IN
+Indian Computer Emergency Response Team
+http://www.cert-in.org.in
+
+Indonesia
+ID-SIRTII
+Indonesia Security Incident Response Team on Internet Infrastructure
+http://www.idsirtii.or.id
+
+Iran
+CERTCC MAHER
+Iran Computer Emergency Response Team/ Coordination Center
+http://www.certcc.ir
+
+Israel
+CERTGOVIL
+Israel Governmental Computer Emergency Response Team
+http://www.cert.gov.il
+
+Italy
+CERT-SPC-C
+Computer Emergency Response Team of the Public Connectivity System
+http://www.cert-spc.it
+
+Japan
+JPCERT/CC
+Japan Computer Emergency Response Team
+http://www.jpcert.or.jp
+
+NISC
+National Information Security Center
+http://www.nisc.go.jp
+
+Kazakhstan
+KZ-CERT
+Kazakhstan CERT
+http://www.kz-cert.kz
+
+Kenya
+KE-CIRT/CC
+Kenya Computer Incident Response Team Coordination Centre
+http://www.cck.go.ke/industry/information_security/ke-cirt-cc/
+
+Korea South
+KrCERT/CC
+CERT Coordination Center of Korea
+http://www.krcert.or.kr
+
+KN-CERT
+Korea National Computer Emergency Response Team
+http://service1.nis.go.kr
+
+Laos
+LaoCERT
+Lao Computer Emergency Response Team
+http://www.laocert.gov.la
+
+Latvia
+CERT.LV
+Information Technologies Security Incidents Response Institution Latvia
+http://www.cert.lv
+
+Lithuania
+CERT-LT
+Lithuanian National Computer Emergency Response Team
+http://www.cert.lt
+
+Luxembourg
+GOVCERT.LU
+Computer Emergency Response Team of the Government of Luxembourg
+http://www.govcert.lu
+
+CIRCL
+Computer Incident Response Center Luxembourg
+http://www.circl.lu
+
+Macau
+MOCERT
+Macau Computer Emergency Response Team - Coordination Centre
+http://www.mocert.org
+
+Malaysia
+MyCERT
+Malaysian Computer Emergency Response Team
+http://www.cybersecurity.my
+
+Malta
+CSIRTMalta
+Malta National CSIRT
+http://csirtmalta.org
+
+Mauritius
+CERT-MU
+Mauritian National Computer Security Incident Response Team
+http://www.cert-mu.org.mu
+
+Mexico
+CERT-MX
+Computer Emergency Response Team Mexico
+http://www.cns.gob.mx
+
+Myanmar
+mmCERT
+Myanmar Computer Emergency Response Team
+http://www.mmcert.org.mm
+
+Netherlands
+GovCERT.NL
+Government Computer Emergency Response Team Netherlands
+http://www.govcert.nl
+
+NCSC-NL
+National Cyber Security Center - Netherlands
+http://www.ncsc.nl
+
+New Zealand
+NCSC
+New Zealand National Cyber Security Centre
+http://www.ncsc.govt.nz
+
+Norway
+NorCERT
+Norwegian Computer Emergency Response Team
+http://www.cert.no
+
+Oman
+OCERT
+Oman National CERT
+http://www.cert.gov.om
+
+Pakistan
+NR3C
+National Response Center for Cyber Crimes
+http://www.nr3c.gov.pk
+
+Panama
+CSIRT Panama
+Computer Security Incident Response Team Panama
+http://www.cert.pa
+
+Paraguay
+CERT-Py
+Equipo de Respuesta ante Incidentes Ciberneticos
+http://www.cert.gov.py
+
+Peru
+PeCERT
+Peru CERT
+http://www.pecert.gob.pe
+
+Philippines
+PH-CERT
+Philippines Computer Emergency Response Team
+http://www.phcert.org
+
+Poland
+CERT.PL
+CERT Polska
+http://www.cert.pl
+
+CERT.Gov.PL
+The Governmental Computer Security Incident Response Team
+http://www.cert.gov.pl
+
+Portugal
+CERT.GOV.PT
+Computer Emergency Response Team Goverment Portugal
+http://www.ceger.gov.pt
+
+CERT.PT
+Computer Emergency Response Team Portugal
+http://www.cert.pt
+
+Qatar
+Q-CERT
+Qatar Computer Emergency Security Team
+http://www.qcert.org
+
+Romania
+CERT-RO
+Computer Emergency Response Team Romania
+http://www.cert-ro.eu
+
+Russia
+GOV-CERT.RU
+Gov-CERT.RU
+http://www.gov-cert.ru
+
+RussianFederation
+GOV-CERT.RU
+Gov-CERT.RU
+http://www.gov-cert.ru
+
+
+Saudi Arabia
+CERT-SA
+Computer Emergency Response Team Saudi Arabia
+http://www.cert.gov.sa
+
+Singapore
+SingCERT
+Singapore Computer Emergency Response Team
+http://www.singcert.org.sg
+
+Slovakia
+CSIRT.SK
+Computer Security Incident Response Team Slovakia
+http://www.csirt.gov.sk
+
+Slovenia
+SI-CERT
+Slovenian Computer Emergency Response Team
+https://www.cert.si
+
+Spain
+CCN-CERT
+Cryptology National Center Computer Emergency Response Team
+http://www.ccn-cert.cni.es
+
+INTECO-CERT
+National Communications Technology Institute
+http://www.inteco.es
+
+Sri Lanka
+Sri Lanka CERT/CC
+Sri Lanka Computer Emergency Readiness Team
+http://www.cert.gov.lk
+
+Sweden
+CERT-SE
+Swedish Information Technology Incident Center
+https://www.cert.se
+
+Switzerland
+GovCERT.ch
+Reporting and Analysis Centre for Information Assurance MELANI
+http://www.melani.admin.ch
+
+SWITCH-CERT
+Swiss Education and Research Network Computer Emergency Response Team
+http://www.switch.ch/security
+
+Taiwan
+TWNCERT
+Taiwan National Computer Emergency Response Team
+http://www.twncert.org.tw
+
+Tanzania
+TZ-CERT
+Tanzania CERT
+http://www.tcra.go.tz
+
+Thailand
+ThaiCERT
+Thailand Computer Emergency Response Team
+http://www.thaicert.or.th
+
+Tunisia
+tunCERT
+Tunisian Computer Emergency Response Team
+http://www.ansi.tn
+
+Turkey
+TR-CERT
+Turkish Computer Emergency Response Team
+http://www.bilgiguvenligi.gov.tr
+
+Ukraine
+CERT-UA
+Computer Emergency Response Team of Ukraine
+http://www.cert.gov.ua
+
+United Arab Emirates
+aeCERT
+Arab Emirates Computer Emergency Response Team
+http://www.aecert.ae
+
+United Kingdom
+CSIRTUK
+Centre for the Protection of National Infrastructure
+http://www.cpni.gov.uk
+
+UnitedKingdom
+CSIRTUK
+Centre for the Protection of National Infrastructure
+http://www.cpni.gov.uk
+
+GovCertUK
+GovCertUK
+http://www.govcertuk.gov.uk
+
+UnitedStates
+US-CERT
+United States Computer Emergency Readiness Team
+http://www.us-cert.gov
+
+Uruguay
+CERTuy
+Incident Response Center of Information Security Uruguay
+http://www.cert.uy
+
+Uzbekistan
+UZ-CERT
+Uzbekistan Computerization and Information Technologies Developing Center
+http://www.cert.uz
+
+Venezuela
+VenCERT
+Computer Incident Management National System
+http://www.vencert.gob.ve
+
+Vietnam
+VNCERT
+Vietnam Computer Emergency Response Team
+http://www.vncert.gov.vn
