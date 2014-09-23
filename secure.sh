@@ -99,7 +99,7 @@ for ((i=1; i<=20; i++)); do
 				if [ -z "$abuse_contacts" ]; then
 					abuse_contacts="no_contact_for_$country_name"
 				fi
-                               echo $country_name
+                               #echo $country_name
                                echo "$fixed_ipaddr $address $country $abuse_mail $abuse_contacts"
                        fi
                                
@@ -160,6 +160,7 @@ for ((i=1; i<=10; i++)); do
                fi
                #echo "$country_name"
 		AS_NUMBER=$(whois -h whois.cymru.com "$ip6addr" | tail -1 | cut -d " " -f1)
+		address=$(whois -h whois.cymru.com "$ip6addr" | tail -1 | cut -d "|" -f3)
                echo "$ip6addr $AS_NUMBER $address $country_code $country_name $abuse_mail $cert_code  $abuse_contacts"
 
        else
