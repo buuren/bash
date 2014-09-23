@@ -4,35 +4,35 @@ My birth date is: 12.10.1990
 =========================================================
 STARTING EXERCISE 1...
 =========================================================
-My number is: 99
-No IP was found for host: dl.iad.ask.com
+My number is: 41
+4.0.41.198.in-addr.arpa. 198.41.0.4  a.root-servers.net. a2.verisigndns.com. a3.verisigndns.com. a1.verisigndns.com.
 
-My number is: 101
-252.160.174.72.in-addr.arpa. 72.174.160.252  host-72-174-160-252.cac-co.client.bresnan.net. dns1.bresnan.net. dns2.bresnan.net.
-
-My number is: 70
-147.143.125.74.in-addr.arpa. 74.125.143.147  la-in-f147.1e100.net.
-
-My number is: 39
-29.197.61.23.in-addr.arpa. 23.61.197.29  a23-61-197-29.deploy.static.akamaitechnologies.com.
-
-My number is: 13
-104.143.125.74.in-addr.arpa. 74.125.143.104  la-in-f104.1e100.net.
-
-My number is: 74
-105.143.125.74.in-addr.arpa. 74.125.143.105  la-in-f105.1e100.net.
-
-My number is: 32
-148.92.168.184.in-addr.arpa. 184.168.92.148  ip-184-168-92-148.ip.secureserver.net. cns2.secureserver.net. cns1.secureserver.net.
+My number is: 58
+42.83.7.199.in-addr.arpa. 199.7.83.42  l.root-servers.net. b.iana-servers.net. c.iana-servers.net. a.iana-servers.net. ns.icann.org.
 
 My number is: 59
 12.4.33.192.in-addr.arpa. 192.33.4.12  c.root-servers.net. auth5.dns.cogentco.com. auth1.dns.cogentco.com. auth4.dns.cogentco.com. auth2.dns.cogentco.com.
 
-My number is: 5
-99.71.194.173.in-addr.arpa. 173.194.71.99  lb-in-f99.1e100.net.
+My number is: 44
+18.32.194.173.in-addr.arpa. 173.194.32.18  arn06s01-in-f18.1e100.net.
 
-My number is: 30
-23.32.194.173.in-addr.arpa. 173.194.32.23  arn06s01-in-f23.1e100.net.
+My number is: 36
+No IP was found for host: http-sinkhole-149-20-56-34.sie.isc.org
+
+My number is: 104
+No IP was found for host: unknown-5573.agava.net
+
+My number is: 4
+106.71.194.173.in-addr.arpa. 173.194.71.106  lb-in-f106.1e100.net.
+
+My number is: 11
+14.204.80.82.in-addr.arpa. 82.80.204.14  s4.perion.com. ns3.bezeqint.net. ns1.bezeqint.net. ns2.bezeqint.net.
+
+My number is: 103
+53.2.63.128.in-addr.arpa. 128.63.2.53  h.root-servers.net.
+
+My number is: 3
+104.71.194.173.in-addr.arpa. 173.194.71.104  lb-in-f104.1e100.net.
 
 =========================================================
 EXERCISE 1 DONE
@@ -41,65 +41,65 @@ EXERCISE 1 DONE
 =========================================================
 STARTING EXERCISE 2...
 =========================================================
-My number is: 2180
-194.97.166.154 4PlayersGmbH DE no_abuse_email http://www.bsi.bund.de/certbund
+My number is: 1247
+94.43.222.142 SILKNETBROADBAND GE abuse@silknet.com http://www.dea.gov.ge
 
-My number is: 1189
-68.232.166.19 is UNSPECIFIED.
+My number is: 427
+213.149.60.35 Studio4Host HR abuse@vip.hr http://www.cert.hr
 
-My number is: 2166
-213.128.80.195 INTERNETBILGISAYARLTDSTI TR ripe26@sayfa.net http://www.bilgiguvenligi.gov.tr
+My number is: 1786
+78.46.47.198 HetznerOnlineAG DE abuse@hetzner.de http://www.bsi.bund.de/certbund
 
-My number is: 2192
-188.165.233.140 OVHSAS FR abuse@ovh.net http://www.cert.ssi.gouv.fr
+My number is: 1757
+208.167.251.66 is UNSPECIFIED.
 
-My number is: 1992
-213.149.60.34 Studio4Host HR abuse@vip.hr http://www.cert.hr
+My number is: 934
+91.82.84.253 SYSTECHGLOBALKft HU abuse@invitel.net http://www.cert-hungary.hu
 
-My number is: 737
-87.195.247.109 SolconODFDrontenFTTH NL abuse@solcon.nl http://www.govcert.nl
+My number is: 1550
+91.226.94.13 OOO''Sobis'' RU no_abuse_email http://www.gov-cert.ru
 
-My number is: 1399
-89.249.220.83 WISEInternetSoEasy...! LB no_abuse_email National Agency for Cyber Security
+My number is: 1027
+195.8.206.206 SCSKYTELECOMSRL ro no_abuse_email http://www.cert-ro.eu
 
-My number is: 1242
-92.48.91.102 Customerrange GB abuse@as29550.net http://www.cpni.gov.uk
+My number is: 2392
+46.4.77.56 HetznerOnlineAG DE abuse@hetzner.de http://www.bsi.bund.de/certbund
 
-My number is: 1929
-190.224.163.50 is UNSPECIFIED.
+My number is: 1367
+68.232.177.221 is UNSPECIFIED.
 
-My number is: 2077
-91.82.84.214 SYSTECHGLOBALKft HU abuse@invitel.net http://www.cert-hungary.hu
+My number is: 744
+85.25.100.171 intergeniaAG DE abuse@plusserver.de http://www.bsi.bund.de/certbund
 
-My number is: 600
-91.120.21.29 GTSHungaryTelecommunicationsLimitedLiabilityCompany HU abuse@gts.hu http://www.cert-hungary.hu
+My number is: 939
+183.82.98.7 is UNSPECIFIED.
 
-My number is: 1133
-91.82.84.212 SYSTECHGLOBALKft HU abuse@invitel.net http://www.cert-hungary.hu
+My number is: 571
+92.48.96.124 Poundhostcustomerserver GB abuse@as29550.net http://www.cpni.gov.uk
 
-My number is: 1054
-88.86.107.135 SuperNetworks.r.o. CZ abuse@superhosting.cz http://www.csirt.cz
+My number is: 741
+46.163.106.8 HostEuropeGmbH DE abuse@hosteurope.de http://www.bsi.bund.de/certbund
 
-My number is: 2076
-85.21.90.18 Corbina'sGameServers RU abuse@corbina.net http://www.gov-cert.ru
+My number is: 2007
+217.199.213.9 QuicklineCo-locatedcustomers RU no_abuse_email http://www.gov-cert.ru
 
-My number is: 643
-68.232.162.176 is UNSPECIFIED.
+My number is: 1293
+200.98.203.115 is UNSPECIFIED.
 
-My number is: 1891
-109.168.111.42 KPNQWestItaliaS.p.a. IT no_abuse_email http://www.cert-spc.it
+My number is: 2287
+213.202.106.184 Inflexusd.o.o HR no_abuse_email http://www.cert.hr
 
-My number is: 1219
-83.167.247.152 MasterInternets.r.o. CZ abuse@master.cz http://www.csirt.cz
+My number is: 646
+83.222.117.116 MnogoByteLLC RU noc@mnogobyte.ru http://www.gov-cert.ru
 
-My number is: 1653
-64.22.99.106 is UNSPECIFIED.
+My number is: 1190
+200.43.192.213 is UNSPECIFIED.
 
-My number is: 1126
-46.45.183.155 INTERNETBILGISAYARLTDSTI TR ripe26@sayfa.net http://www.bilgiguvenligi.gov.tr
+My number is: 1935
+195.4.107.243 4PlayersGmbH DE no_abuse_email http://www.bsi.bund.de/certbund
 
-My number is: 1980
-95.211.7.132 LeaseWeb NL abuse@leaseweb.com http://www.govcert.nl
+My number is: 844
+68.232.164.78 is UNSPECIFIED.
 
 =========================================================
 EXERCISE 2 DONE
@@ -108,46 +108,37 @@ EXERCISE 2 DONE
 =========================================================
 STARTING EXERCISE 4...
 =========================================================
-My number is: 1373
-./kat.sh: line 163: LeaseWeb=: command not found
-2002:dfbd:55fa::dfbd:55fa 6939 LeaseWeb  IN India abuse@ripe.net CERT-IN  http://www.cert-in.org.in
+My number is: 1893
+2602:306:c50e:9240:bcf2:ceef:8872:8bca 7018  ATT-INTERNET4 - AT&T Services, Inc.,US  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
 
-My number is: 1413
-./kat.sh: line 163: LeaseWeb=: command not found
-2002:dfef:f16f:4:29f6:ffd5:da53:3630 6939 LeaseWeb  IN India abuse@ripe.net CERT-IN  http://www.cert-in.org.in
+My number is: 1933
+2605:e000:6780:2200:11e5:f7c5:49ac:f0a1 20001  ROADRUNNER-WEST - Time Warner Cable Internet LLC,US  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
 
-My number is: 1453
-./kat.sh: line 163: LeaseWeb=: command not found
-2002:e63:ef15::e63:ef15 6939 LeaseWeb  IN India abuse@ripe.net CERT-IN  http://www.cert-in.org.in
+My number is: 1973
+2605:e000:6780:2200:b829:d815:dd9c:cbf1 20001  ROADRUNNER-WEST - Time Warner Cable Internet LLC,US  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
 
-My number is: 1493
-./kat.sh: line 163: LeaseWeb=: command not found
-2402:6b00:2a98:4b40:38bd:12e8:6655:2ee7 18126 LeaseWeb  JP Japan abuse@ripe.net JPCERT/CC  http://www.jpcert.or.jp
+My number is: 2013
+2620:101:2005:10b4:10:8:52:136 16417  IRONPORT-SYSTEMS-INC - Cisco Systems Ironport Division,US  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
 
-My number is: 1533
-./kat.sh: line 163: LeaseWeb=: command not found
-2405:4200:203::ca6b:6c72 59211 LeaseWeb  SG Singapore abuse@ripe.net SingCERT  http://www.singcert.org.sg
+My number is: 2053
+2620:101:4037:3a03:150:70:97:116 16880  AS2-TRENDMICRO-COM - TREND MICRO INCORPORATED,US  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
 
-My number is: 1573
-./kat.sh: line 163: LeaseWeb=: command not found
-2600:3c00::f03c:91ff:fe73:b76f 36351 LeaseWeb  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
+My number is: 2093
+2a00:1178:1:43:4:4:: 35415  WEBAZILLA Webazilla B.V.,NL  NL Netherlands abuse@webzilla.com GovCERT.NL  http://www.govcert.nl
 
-My number is: 1613
-./kat.sh: line 163: LeaseWeb=: command not found
-2602:301:77c2:aab0:244f:d213:a5e:db9a 7018 LeaseWeb  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
+My number is: 2133
+2a01:4f8:192:4095::2 24940  HETZNER-AS Hetzner Online AG,DE  DE Germany no_abuse_email CERT-Bund  http://www.bsi.bund.de/certbund
 
-My number is: 1653
-./kat.sh: line 163: LeaseWeb=: command not found
-2602:301:77c2:aab0:6c6c:a39e:da36:6454 7018 LeaseWeb  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
+My number is: 2173
+2a01:e34:ef70:c080:18ef:a575:628f:6979 12322  PROXAD Free SAS,FR  FR France abuse@proxad.net CERT-FR  http://www.cert.ssi.gouv.fr
 
-My number is: 1693
-./kat.sh: line 163: LeaseWeb=: command not found
-2602:301:77c2:aab0:a07e:36d6:baea:a94f 7018 LeaseWeb  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
+My number is: 2213
+2a01:e35:2eef:9a40:103e:d906:6780:fa80 12322  PROXAD Free SAS,FR  FR France abuse@proxad.net CERT-FR  http://www.cert.ssi.gouv.fr
 
-My number is: 1733
-./kat.sh: line 163: LeaseWeb=: command not found
-2602:301:77c2:aab0:d8a8:e283:b349:ff56 7018 LeaseWeb  US UnitedStates abuse@ripe.net US-CERT  http://www.us-cert.gov
+My number is: 2253
+2a01:e35:2eef:9a40:6c90:5603:302:8d57 12322  PROXAD Free SAS,FR  FR France abuse@proxad.net CERT-FR  http://www.cert.ssi.gouv.fr
 
 =========================================================
 EXERCISE 4 DONE
 =========================================================
+
