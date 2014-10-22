@@ -24,5 +24,5 @@ Send TCP-SYN -< RST = CLOSED
 Send TCP-SYN -< no reply? filtered. (ICMP unreachable)
 
 nmap -sT: Connect (in case you cant use raw socket or IPv6)
-Use system call. Full TCP connection
+Use system call. Full TCP connection. Can be traced (more info in the logs)
 
